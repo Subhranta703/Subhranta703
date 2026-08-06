@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **SkillMatched**
 
-- 🌱 I’m currently learning **AI & ML**
+- 🌱 I’m currently learning **Cloud & DevOps**
 
 - 💬 Ask me about **MERN Stack or Full stack DEV**
 
